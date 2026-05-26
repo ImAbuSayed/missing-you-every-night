@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Missing You Every Night
+
+This log tracks the cryptographic history and versioning for the song **Missing You Every Night** (missing-you-every-night).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T06:05:31.076707 | `v1` | `bba020551738c93bcb3c3fb4e1f17419283dacaaf676f647708fac210d27a963` | `7b60c1ef59754e7654a2c306bbdb7527b9ede5fe963095557728d6f4fe9c38c7` | `2026-05-26_missing-you-every-night-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
