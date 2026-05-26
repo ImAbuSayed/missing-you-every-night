@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/missing-you-every-night/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Missing You Every Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-you-every-night/) |
+| **Get License** | [Request Licensing for Missing You Every Night](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/missing-you-every-night/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel your memory riding down the breeze
+> A midnight fever bringing me to my knees
+> The coffee's cold but the fire is burning bright
+> I’m missing you, missing you every night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
